@@ -1,2 +1,2 @@
 # BD-Counterfeit-Note-Detectorr
-Machine learning and image processing based counterfeit banknote detector (Android).
+Machine Learning and Image Processing based counterfeit banknote detector (Android).
