@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">BD FAKE NOTE DETECTOR</string>
+    <string name="n500Title">TEST BDT 500</string>
+    <string name="n1000Title">TEST BDT 1000</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Image Path</string>
+    <string name="processed">Proc</string>
+    <string name="org">ORG</string>
+    <string name="camera">Auto</string>
+    <string name="res">Res</string>
+    <string name="cannot">Cannot</string>
+</resources>

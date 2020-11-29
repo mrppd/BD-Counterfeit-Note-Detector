@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#5a5959"
+    android:gravity="center">
+
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="383dp"
+        android:layout_height="482dp"
+        android:gravity="center"
+        android:paddingTop="10dp"
+        android:paddingBottom="10dp"
+        android:paddingLeft="10dp"
+        android:paddingRight="10dp">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:text="Feature (Normal)"
+            android:id="@+id/popupHead1"
+            android:layout_weight="0"
+            android:layout_marginTop="10dp" />
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/imgFeatureNormal"
+            android:layout_weight="40"
+            android:layout_gravity="center"
+            android:scaleType="centerCrop" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:id="@+id/popupHead2"
+            android:text="Feature (Edge)" />
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/imgFeatureEdge"
+            android:layout_marginBottom="20dp"
+            android:layout_weight="40"
+            android:layout_gravity="center"
+            android:scaleType="centerCrop" />
+    </LinearLayout>
+
+</LinearLayout>

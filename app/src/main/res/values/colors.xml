@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="colorTransparent">#50000000</color>
+    <color name="btn_bluish_color">#FFFFFF</color>
+    <color name="transparent_20">#ae000000</color>
+    <color name="bright_green">#43fd00</color>
+    <color name="bright_red">#ff1a1a</color>
+    <color name="bright_yellow">#f5fd00</color>
+    <color name="bright_yellow_green">#d3fd00</color>
+</resources>
